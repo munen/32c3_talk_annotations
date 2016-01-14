@@ -192,3 +192,14 @@ Nachdenken darüber wie wir auf den Ebenen unter der Psyche funktionieren, wie w
 
 ** Tomaso
 Wie und warum wachsen soziale Netzwerke? Wo ist und was macht Diaspora? Chancen. Sehr gut analysiert. Empfohlen.
+
+* Ling - High Level Systems Programming (Nicolas Pouillard)
+
+** Tomaso
+Praktische Einführung in eine neue Sprache. Das "fusion" Konzept wird vorgestellt, das wie ein etwas fortgeschrittenes rekursives Inlining daherkommt. Ist das etwas neues? Kurz danach bin ich eingeschlafen, was nicht unbedingt dem Vortrag geschuldet war.
+
+* Net Neutrality in Europe (Thomas Lohninger)
+* Buffering sucks (Fredy Küenzler)
+
+** Tomaso
+Einblick in EU Rechtsgebungsmechanismen, insbesondere im Bezug auf Netz Neutralität. Thomas Lohninger hatte schon am 31c3 einen interessanten Vortrag darüber gehalten ( [Net neutrality: days of future past?](https://github.com/tpo/31c3_talks_annotations/) - ca. in der Mitte) und dies ist der Bericht über die Fortschritte seit dem. Direkt anschliessend und an einem Stück ist der Vortrag von Fredy Küenzler, dessen Aussage ich reduzieren würde auf "den grossen Providern/Telcos gehen die Kunden am Arsch ab - Ziel ist jedem mit allen Mitteln noch mehr Geld abzupressen". Diese Aussage wird mit Beispielen belegt und technisch erklärt und ergänzt gut Thomas Lohningers Bericht, dass die Telcos Gesetze in die EU pushen um Netz Neutralität zu zerstören.
